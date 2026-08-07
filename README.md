@@ -1,2 +1,3 @@
 # Javascript-boilerplate
-Javascript Boilerplate med HTML og CSS
+
+Javascript Boilerplate med HTML, SCSS og JS
